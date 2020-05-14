@@ -1,7 +1,8 @@
 # Automatic-featured
 Some researches on Learning Feature Engineering ,see./essay
 
-Run demo in ./codes
+Run demo in 
+./codes
 
 You can manually adjust parameters and place to hold data.
 
