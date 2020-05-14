@@ -6,10 +6,10 @@ Run demo in  codes
 You can manually adjust parameters and place to hold data.
 
 By default:
-Python AFE.py
-python Training.py
-python Validation.py
+1.Python AFE.py
+2.python Training.py
+3.python Validation.py
 
 # If you want to check the scale of useful and useless QSA.
-after running AFE.py
-python CheckStatus.py
+1.after running AFE.py
+2.python CheckStatus.py
